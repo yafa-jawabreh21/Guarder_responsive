@@ -1,4 +1,6 @@
 import Quarder from "./components/Quarder";
+import About from "./components/About";
+
 function Home () {
     return(
         <>
@@ -40,6 +42,7 @@ function Home () {
 </nav>
 <Quarder/>
 </div>
+<About/>
 
 
 <footer class=" dark:bg-gray-900 bg-black md:p-24">
