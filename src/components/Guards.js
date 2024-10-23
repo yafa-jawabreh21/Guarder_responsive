@@ -26,6 +26,7 @@ function Quards() {
                             <h5 className="text-sm font-bold tracking-wide">Supervisor</h5>
                         </div>
                     </div>
+                    
                 </div>
                 <button className="bg-yellow-300 text-white py-1 px-10 mt-4 mb-10 font-medium rounded-sm hover:bg-yellow-400">View All</button>
             </div>
