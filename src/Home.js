@@ -1,6 +1,7 @@
 import Quarder from "./components/Quarder";
 import About from "./components/About";
 import Services from "./components/Services";
+import ContactUs from "./components/ContactUs";
 function Home () {
     return(
         <>
@@ -44,6 +45,7 @@ function Home () {
 </div>
 <About/>
 <Services/>
+<ContactUs/>
 
 
 <footer class=" dark:bg-gray-900 bg-black md:p-24">
