@@ -1,7 +1,7 @@
 function Services () {
     return(
         <>
-        <div className="bg-black opacity-90 text-white text-center p-7 ">
+        <div id="section2" className="bg-black opacity-90 text-white text-center p-7 ">
             <h1 className="text-white text-base sm:text-lg md:text-xl font-bold tracking-widest sm:mt-16 sm:mb-10 mb-5">OUR SERVICES</h1>
             <div className="block md:flex md:gap-5   my-0 mx-40  text-black">
                 <div className="block p-10 bg-white mb-10">

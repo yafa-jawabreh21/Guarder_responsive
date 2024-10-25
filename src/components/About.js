@@ -1,7 +1,7 @@
 function About () {
     return(
         <>
-        <div className="h-fit block sm:flex sm:gap-5  p-14">
+        <div id="section1" className="h-fit block sm:flex sm:gap-5  p-14">
             <img className="sm:h-1/2 sm:w-1/2" src="https://absoluteisi.com/wp-content/uploads/2021/03/A5D0B9A5-8EB5-4046-9391-52B49432E1DB.jpeg" ></img>
             <div className="bg-white p-10 sm:h-1/2 sm:w-1/2 ">
                 <h1 className="font-extrabold text-xl tracking-widest pt-2 pb-4 text-left">WHO ARE WE?</h1>

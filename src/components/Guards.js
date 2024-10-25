@@ -1,7 +1,7 @@
 function Quards() {
     return (
         <>
-            <div>
+            <div id="section3">
                 <h1 className="text-black pt-10 text-lg sm:text-lg md:text-xl font-bold tracking-widest mb-5">OUR GUARDS</h1>
                 <p className="text-center px-20 py-0 mb-11">
                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi animi laborum facilis, qui sint, vero odit libero consequatur iusto quo perferendis rerum eos aliquid porro, at cupiditate. Quibusdam, sapiente quisquam!
