@@ -63,14 +63,7 @@ function Home () {
               <div>
                 <h2 class="self-center pb-2 text-xl md:text-2xl font-semibold whitespace-nowrap dark:text-white text-left"><span className="text-yellow-300">U</span>seful Link</h2>
                 <p className="text-left pt-2 text-xs md:text-base">Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>  
-                  {/* <ul class="text-gray-500 dark:text-gray-400 font-medium">
-                      <li class="mb-4">
-                          <a href="https://flowbite.com/" class="hover:underline">Flowbite</a>
-                      </li>
-                      <li>
-                          <a href="https://tailwindcss.com/" class="hover:underline">Tailwind CSS</a>
-                      </li>
-                  </ul> */}
+
               </div>
               <div>
               <h2 class="self-center pb-4  text-xl md:text-2xl font-semibold whitespace-nowrap dark:text-white text-left"><span className="text-yellow-300">C</span>ontact Us</h2>
@@ -99,13 +92,13 @@ function Home () {
                       </li>
                   </ul>
               </div>
-              <div>
+              <div className="md:flex md:flex-col">
               <h2 class="self-center  pb-4  text-xl md:text-2xl font-semibold whitespace-nowrap dark:text-white text-left"><span className="text-yellow-300">N</span>ewsletter</h2>
                   <form className="flex gap-1 md:block ">
                     <input type="text" placeholder="Enter Your Email" className="rounded-sm p-2 md:mb-3 md:float-left"></input>
                     <button type="button" className="bg-yellow-300 text-white text-center rounded-lg p-2 px-5 md:float-left ">Subscribe</button>
                   </form>
-                  <div class="flex pt-5 pb-6 sm:justify-center sm:mt-0 float-left ">
+                  <div class="flex pt-5 pb-6 sm:justify-center md:justify-start sm:mt-0  float-left ">
               <a href="#" class="text-yellow-300 hover:text-gray-900 dark:hover:text-white">
                   <svg class="w-4 h-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 8 19">
                         <path fill-rule="evenodd" d="M6.135 3H8V0H6.135a4.147 4.147 0 0 0-4.142 4.142V6H0v3h2v9.938h3V9h2.021l.592-3H5V3.591A.6.6 0 0 1 5.592 3h.543Z" clip-rule="evenodd"/>
