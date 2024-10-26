@@ -16,7 +16,7 @@ function About () {
                 <p className="text-left text-xs sm:text-xs md:text-base md:font-normal font-medium pb-4">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus quisquam laboriosam adipisci cupiditate, eos ipsa placeat. Eius cupiditate aliquam minus omnis? Voluptas hic libero unde placeat facilis possimus quis animi.
                 </p>
-                <button className="bg-yellow-300 text-white py-1 px-3 font-medium rounded-sm float-left">Get Qquote</button>
+                <button className="bg-yellow-300 text-white py-3 px-6 font-medium rounded-sm float-left hover:bg-yellow-400">Get Qquote</button>
             </div>
         </div>
         </>
